@@ -1,0 +1,28 @@
+name: Home Vision Staging
+favicon: null
+layout_spectrum: 0.3465949383098632
+typography_spectrum: 0.37018978665582836
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.3633043537847698
+  lightness: 0.6203199175652117
+  saturation: 0.1273768595419824
+  rhythmicContrast: 0.5156612002756447
+purpose: []
